@@ -1,14 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with `npx create-react-app`(https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Terminal usage
 
 In the project directory, you can run:
-
-### `npx create-react-app`
-
-Create a react app with this command in terminal
 
 ### `npm start`
 
