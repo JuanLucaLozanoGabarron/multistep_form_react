@@ -1,0 +1,26 @@
+form {
+  display: flex !important;
+  flex-direction: column;
+  width: 200px;
+  margin: auto;
+  justify-content: space-between;
+  text-align: center;
+  margin-top: 100px !important;
+  background-color: whitesmoke;
+  padding: 100px 150px;
+}
+
+button {
+  margin-top: 20px;
+  background-color: greenyellow;
+  border: 0px solid;
+  padding: 10px 15px;
+}
+
+.app {
+  margin: auto;
+}
+
+#recap {
+  text-align: left !important;
+}
